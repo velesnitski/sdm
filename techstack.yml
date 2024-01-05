@@ -1,7 +1,8 @@
 repo_name: velesnitski/sdm
 report_id: 8b07580b3316f8b6903f40b6043e422a
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-20T06:25:32+00:00'
+timestamp: '2024-01-05T08:36:49+00:00'
 requested_by: dkorolev
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/velesnitski/sdm
   detection_source: Repo Metadata
